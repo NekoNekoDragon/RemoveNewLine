@@ -1,8 +1,0 @@
-Cassava weeding is conducted within 2 weeks after rainfall. This can be done by using mechanical weeder specifically designed 
-for Cassava field usage. It is necessary to detect the ArUco marker to conduct the precise navigation to promote operating
-safety of the Cassava Weeder. Therefore, the purpose of this research is to improve the steering systems of the mechanical 
-weeder in Cassava field. ArUco marker detection system was used for navigating the weeder. The GNSS system was developed
-using python programming to obtain the GNSS coordinates value. The experiments were conducted at the T-PIRC (TsukubaPlant Innovation Research Center) to set up the base station and rover of the GNSS system. The preliminary results of 
-navigation performance which were obtained at the local grid and GNSS were observed. The deviation value increased steadily 
-until reached 115 cm from the centerline. Further research is required to check the navigation stability and feedback system to 
-reduce the lateral deviation in straight movement and turning. 
